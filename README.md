@@ -43,7 +43,7 @@ Hi! I'm Praashanth Sharma Pappu 👋, a passionate Software Developer currently 
 
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/prsdev)
-[![Portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Portfolio)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=Portfolio)]
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sharmaprashanth374@gmail.com)
 
 ---
