@@ -40,8 +40,7 @@ Hi! I'm Praashanth Sharma Pappu 👋, a passionate Software Developer currently 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react&hide_border=true)
 
 ---
-### My Contributions, but make it Tetris 🎮
-![Tetris Contributions](tetris.gif)
+
 
 
 ## 📫 Connect with Me:
