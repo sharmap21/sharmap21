@@ -1,6 +1,14 @@
+<!-- Animated Charts GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
 </p>
+
+
+
+
+
 
 Hi! I'm **Prashanth Sharma Pappu** 👋, a passionate Data Analyst with hands-on experience in Python, SQL, ETL pipelines, and data visualization. I love transforming raw data into actionable insights to solve real-world problems.  
 
