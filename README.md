@@ -32,22 +32,85 @@ Hi! I'm **Prashanth Sharma Pappu** 👋, a passionate Data Analyst with hands-on
 
 ---
 
-## 📚 Key Projects
-- **Customer Segmentation & Feedback Intelligence System**  
-  - Performed segmentation on 50,000+ e-commerce records using K-Means clustering  
-  - Built ETL workflow to clean and transform data for analysis  
-  - Visualized metrics and retention trends with Power BI dashboards  
-  - Integrated sentiment analysis using ChatGPT API to summarize feedback insights  
+# 📘 Projects
 
-- **Stock Trend Forecasting Engine**  
-  - Collected and transformed stock data for forecasting models  
-  - Implemented ARIMA and Linear Regression for predicting stock trends  
-  - Automated data retrieval and reporting using Python  
+## 📊 MacroPulse — Global Economic & Inflation Analytics (2020–2025)
+Analysis of global macroeconomic indicators across 180+ countries to uncover growth patterns, inflation cycles, and recovery trends.
 
-- **Automated Parking Assistance System**  
-  - Processed IoT-generated parking data and designed ETL pipelines  
-  - Built React-based dashboards linked with Power BI APIs  
-  - Generated predictive insights to improve space allocation efficiency  
+### 🔍 What I Did
+- Analyzed multi-year GDP, inflation, and unemployment datasets using Python.
+- Built data-cleaning, feature-engineering, and EDA pipelines.
+- Designed interactive Power BI dashboards for country-level comparison.
+- Applied clustering and statistical methods to identify high-growth and high-risk regions.
+
+### 🛠️ Tech Stack
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Power BI  
+
+### 🔗 Resources
+- **GitHub Repo:** https://github.com/sharmap21/MacroPulse  
+
+
+---
+
+## 🛒 Shoplyze — Customer Purchase Behaviour Analytics
+End-to-end customer segmentation and purchase-pattern analysis for RFM/CLV insights.
+
+### 🔍 What I Did
+- Engineered RFM and CLV metrics using Python for customer profiling.
+- Performed EDA to analyze recency, frequency, and monetary contributions.
+- Identified customer segments and behavior trends.
+- Created a Power BI dashboard for segment-wise retention and churn analysis.
+
+### 🛠️ Tech Stack
+- Python  
+- Pandas  
+- Excel  
+- Matplotlib  
+- Power BI  
+
+### 🔗 Resources
+- **GitHub Repo:** https://github.com/sharmap21/Shoplyze-setup  
+
+
+---
+
+## 🤖 EmoVision — NLP Sentiment & Emotion Analysis
+NLP-based sentiment and emotion classification system with visual insights.
+
+### 🔍 What I Did
+- Standardized 7,500+ text records using tokenization and lemmatization.
+- Trained ML models achieving 82% sentiment classification accuracy.
+- Extracted emotion-driven keywords using NLP pipelines.
+- Generated 8 visual summaries (sentiment charts, keyword rankings, brand insights).
+
+### 🛠️ Tech Stack
+- Python  
+- NLTK  
+- Scikit-learn  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+
+### 🔗 Resources
+- **GitHub Repo:** https://github.com/sharmap21/EmoVision  
+
+
+---
+
+## 🧩 Skills Demonstrated
+- Data Cleaning & Wrangling  
+- Feature Engineering  
+- EDA & Statistical Modeling  
+- NLP (Tokenization, Lemmatization, Sentiment Analysis)  
+- Machine Learning (Classification, Clustering)  
+- Dashboarding (Power BI)  
+- Predictive Analytics  
+- Python ETL Pipelines  
+
 
 ---
 
